@@ -1,4 +1,4 @@
-i#include<stdio.h>
+#include<stdio.h>
 int main()
 {
 printf("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
@@ -10,7 +10,7 @@ printf("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 printf("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 printf("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 printf("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
-printf("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb:wqb");
+printf("bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb");
 printf("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 
 
