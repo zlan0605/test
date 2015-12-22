@@ -2,8 +2,6 @@
 int main()
 {
 printf("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
-printf("bbbbbbbbbbbbbbbbbb");
-printf("ccccccccccccccccc");
 printf("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 printf("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 printf("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
